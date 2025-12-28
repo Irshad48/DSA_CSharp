@@ -2,6 +2,7 @@
   <Folder Name="/ARRAY/" />
   <Folder Name="/ARRAY/Square_Patterns/">
     <Project Path="Numbers_square_pattern/Numbers_square_pattern.csproj" />
+    <Project Path="Start_square_pattern/Start_square_pattern.csproj" />
   </Folder>
   <Folder Name="/PATTERNS/" />
 </Solution>
