@@ -8,6 +8,9 @@
   <Folder Name="/PATTERNS/Inverted_Triangle_Pattern/">
     <Project Path="Number_inverted_triangle_pattern/Number_inverted_triangle_pattern.csproj" Id="702cb62b-9af3-4e7d-b3b9-9b50d01cc1e6" />
   </Folder>
+  <Folder Name="/PATTERNS/Pyramid_Pattern/">
+    <Project Path="Number_pyramid_pattern/Number_pyramid_pattern.csproj" Id="533b2bd6-045e-4653-9d5b-3d7eb924443f" />
+  </Folder>
   <Folder Name="/PATTERNS/Reverse_Triangle_Pattern/">
     <Project Path="Number_reverse_triangle_pattern/Number_reverse_triangle_pattern.csproj" Id="c5f0f123-d876-4194-889f-013bbad70b22" />
   </Folder>
