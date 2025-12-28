@@ -1,6 +1,9 @@
 <Solution>
   <Folder Name="/ARRAY/" />
   <Folder Name="/PATTERNS/" />
+  <Folder Name="/PATTERNS/Reverse_Triangle_Pattern/">
+    <Project Path="Number_reverse_triangle_pattern/Number_reverse_triangle_pattern.csproj" Id="c5f0f123-d876-4194-889f-013bbad70b22" />
+  </Folder>
   <Folder Name="/PATTERNS/Square_Pattern/">
     <Project Path="ALPHABETS_Increment_square_pattern/ALPHABET_Increment_square_pattern.csproj" />
     <Project Path="ALPHABETS_square_pattern/ALPHABET_square_pattern.csproj" />
