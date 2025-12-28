@@ -1,17 +1,17 @@
 <Solution>
   <Folder Name="/ARRAY/" />
-  <Folder Name="/ARRAY/Square_Pattern/">
+  <Folder Name="/PATTERNS/" />
+  <Folder Name="/PATTERNS/Square_Pattern/">
     <Project Path="ALPHABETS_Increment_square_pattern/ALPHABET_Increment_square_pattern.csproj" />
     <Project Path="ALPHABETS_square_pattern/ALPHABET_square_pattern.csproj" />
     <Project Path="Numbers_square_pattern/Number_square_pattern.csproj" />
     <Project Path="Number_Incremental_square_pattern/Number_Increment_square_pattern.csproj" />
     <Project Path="Start_square_pattern/Star_square_pattern.csproj" />
   </Folder>
-  <Folder Name="/ARRAY/Triangle_Pattern/">
+  <Folder Name="/PATTERNS/Triangle_Pattern/">
     <Project Path="ALPHABET_triangle_pattern/ALPHABET_triangle_pattern.csproj" Id="31718d2f-dc43-4d52-ab9f-ecd3046029e9" />
     <Project Path="Number_ResetRow_triangle_Pattern/Number_ResetRow_triangle_Pattern.csproj" Id="c54901a9-47c2-4553-8bb3-3bc3849b5679" />
     <Project Path="Number_triangle_pattern/Number_triangle_pattern.csproj" Id="d37af454-f2ee-47dd-bd34-9dcd648b91bb" />
     <Project Path="Star_triangle_pattern/Star_triangle_pattern.csproj" />
   </Folder>
-  <Folder Name="/PATTERNS/" />
 </Solution>
