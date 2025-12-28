@@ -3,8 +3,8 @@
   <Folder Name="/ARRAY/Square_Pattern/">
     <Project Path="ALPHABETS_Increment_square_pattern/ALPHABETS_Increment_square_pattern.csproj" />
     <Project Path="ALPHABETS_square_pattern/ALPHABETS_square_pattern.csproj" />
-    <Project Path="Numbers_square_pattern/Numbers_square_pattern.csproj" />
-    <Project Path="Number_Incremental_square_pattern/Number_Incremental_square_pattern.csproj" />
+    <Project Path="Numbers_square_pattern/Number_square_pattern.csproj" />
+    <Project Path="Number_Incremental_square_pattern/Number_Increment_square_pattern.csproj" />
     <Project Path="Start_square_pattern/Start_square_pattern.csproj" />
   </Folder>
   <Folder Name="/ARRAY/Triangle_Pattern/" />
