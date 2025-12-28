@@ -1,6 +1,9 @@
 <Solution>
   <Folder Name="/ARRAY/" />
   <Folder Name="/PATTERNS/" />
+  <Folder Name="/PATTERNS/Floyds_Triangle_Pattern/">
+    <Project Path="Number_floyds_triangle_pattern/Number_floyds_triangle_pattern.csproj" Id="0135a029-8ca6-4262-a9dd-38c4ac71d6d3" />
+  </Folder>
   <Folder Name="/PATTERNS/Reverse_Triangle_Pattern/">
     <Project Path="Number_reverse_triangle_pattern/Number_reverse_triangle_pattern.csproj" Id="c5f0f123-d876-4194-889f-013bbad70b22" />
   </Folder>
