@@ -8,6 +8,7 @@
     <Project Path="Start_square_pattern/Star_square_pattern.csproj" />
   </Folder>
   <Folder Name="/ARRAY/Triangle_Pattern/">
+    <Project Path="Number_triangle_pattern/Number_triangle_pattern.csproj" Id="d37af454-f2ee-47dd-bd34-9dcd648b91bb" />
     <Project Path="Star_triangle_pattern/Star_triangle_pattern.csproj" />
   </Folder>
   <Folder Name="/PATTERNS/" />
