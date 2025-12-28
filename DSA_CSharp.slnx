@@ -5,8 +5,10 @@
     <Project Path="ALPHABETS_square_pattern/ALPHABETS_square_pattern.csproj" />
     <Project Path="Numbers_square_pattern/Number_square_pattern.csproj" />
     <Project Path="Number_Incremental_square_pattern/Number_Increment_square_pattern.csproj" />
-    <Project Path="Start_square_pattern/Start_square_pattern.csproj" />
+    <Project Path="Start_square_pattern/Star_square_pattern.csproj" />
   </Folder>
-  <Folder Name="/ARRAY/Triangle_Pattern/" />
+  <Folder Name="/ARRAY/Triangle_Pattern/">
+    <Project Path="Star_triangle_pattern/Star_triangle_pattern.csproj" />
+  </Folder>
   <Folder Name="/PATTERNS/" />
 </Solution>
