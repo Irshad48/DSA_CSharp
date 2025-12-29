@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics.Metrics;
 
 class Factorial
 {
@@ -15,6 +16,20 @@ class Factorial
         }
         return factorial;
     }
+
+    /// <summary>
+    /// Explaination: This method calculates the factorial of a number using recursion.
+    /// Each call creates a stack frame:
+    /// f(4) → waiting for f(3)
+    /// f(3) → waiting for f(2)
+    /// f(2) → waiting for f(1)
+    /// f(1) → returns 1
+
+    /// After f(1) returns:
+    /// f(2) resumes → returns 2
+    /// f(3) resumes → returns 6
+    /// f(4) resumes → returns 24
+
     public static int CalculateFactorialRecursive(int Number)
     {
         if(Number < 0)
