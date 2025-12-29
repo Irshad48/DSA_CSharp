@@ -1,5 +1,9 @@
 <Solution>
   <Folder Name="/ARRAY/" />
+  <Folder Name="/NUMBER_GENERIC/" />
+  <Folder Name="/NUMBER_GENERIC/Factorial/">
+    <Project Path="Factorial/Factorial.csproj" Id="1905ab10-32b3-4313-90b1-303f126973d5" />
+  </Folder>
   <Folder Name="/PATTERNS/" />
   <Folder Name="/PATTERNS/Butterfly_Pattern/">
     <Project Path="Number_butterfly_pattern/Star_butterfly_pattern.csproj" Id="94914f91-6228-41cf-8090-4540571bfaa2" />
