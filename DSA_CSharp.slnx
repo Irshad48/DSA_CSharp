@@ -1,6 +1,9 @@
 <Solution>
   <Folder Name="/ARRAY/" />
   <Folder Name="/PATTERNS/" />
+  <Folder Name="/PATTERNS/Butterfly_Pattern/">
+    <Project Path="Number_butterfly_pattern/Star_butterfly_pattern.csproj" Id="94914f91-6228-41cf-8090-4540571bfaa2" />
+  </Folder>
   <Folder Name="/PATTERNS/Floyds_Triangle_Pattern/">
     <Project Path="ALPHABET_floyds_triangle_pattern/ALPHABET_floyds_triangle_pattern.csproj" Id="5152d7f5-c667-4083-b607-5d988cb2332d" />
     <Project Path="Number_floyds_triangle_pattern/Number_floyds_triangle_pattern.csproj" Id="0135a029-8ca6-4262-a9dd-38c4ac71d6d3" />
