@@ -1,5 +1,9 @@
 <Solution>
   <Folder Name="/ARRAY/" />
+  <Folder Name="/Companies/" />
+  <Folder Name="/Companies/HCL/">
+    <Project Path="HCL_word_count/HCL_word_count.csproj" Id="ffa4c388-9b4d-4dd9-a61e-063af7e29108" />
+  </Folder>
   <Folder Name="/NUMBER_GENERIC/" />
   <Folder Name="/NUMBER_GENERIC/Factorial/">
     <Project Path="Factorial/Factorial.csproj" Id="1905ab10-32b3-4313-90b1-303f126973d5" />
