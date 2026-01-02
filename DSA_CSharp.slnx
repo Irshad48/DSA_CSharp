@@ -2,6 +2,7 @@
   <Folder Name="/ARRAY/" />
   <Folder Name="/Companies/" />
   <Folder Name="/Companies/HCL/">
+    <Project Path="HCL_max_suarray_sum/HCL_max_suarray_sum.csproj" Id="bbbf195d-b8fa-46d9-8878-1ffd119c6741" />
     <Project Path="HCL_word_count/HCL_word_count.csproj" Id="ffa4c388-9b4d-4dd9-a61e-063af7e29108" />
   </Folder>
   <Folder Name="/NUMBER_GENERIC/" />
